@@ -1,0 +1,54 @@
+.bjr{
+     border-radius: 0.3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30rem;
+    background-color: springgreen;
+    text-align: center;
+   color: forestgreen; 
+   font-size: 2rem;
+}
+
+
+
+.acceuil{
+     border-radius: 0.3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30rem;
+    background-color: lightgreen;
+    text-align: center;
+   color: olivedrab; 
+   font-size: 1.2rem;
+}
+
+
+.link{
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    width: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: salmon;
+}
+
+.background{
+    border-radius: 0.3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35rem;
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+    background-color: cornflowerblue;
+}
+
+.rebon{
+    border-radius: 0.3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30rem;
+    background-color: springgreen;
+    text-align: center;
+    color: forestgreen; 
+    font-size: 2rem;  
+}
